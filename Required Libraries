@@ -1,0 +1,4 @@
+Install this libraries 
+
+1) https://github.com/bxparks/AceButton (AceButton)
+2) https://github.com/espressif/arduino-esp32/tree/master/libraries/BluetoothSerial (Bluetooth Serial)
